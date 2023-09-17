@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\user\¿Ãº∫»∆\pjt_01\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+299243037.index
+1257742345.index
+2356217478.index
+2203267682.index
+3296551569.index
+299243037.index
+2003666970.index
+131372547.index
